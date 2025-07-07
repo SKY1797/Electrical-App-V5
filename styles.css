@@ -178,7 +178,7 @@ body::before {
 
 .card-header {
   text-align: center;
-  padding: 2rem 2rem 1rem;
+  padding: 2rem 2rem 0rem;
   position: relative;
 }
 
@@ -202,7 +202,7 @@ body::before {
 }
 
 .card-content {
-  padding: 1.5rem 2rem 2.5rem;
+  padding: 1rem 2rem 1rem;
   position: relative;
 }
 
@@ -254,7 +254,7 @@ body::before {
   background: var(--card);
   border: 2px solid var(--border);
   color: var(--foreground);
-  padding: 1.25rem 1rem;
+  padding: 0.75rem 1rem;
   border-radius: var(--radius);
   cursor: pointer;
   font-size: 1rem;
