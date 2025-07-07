@@ -151,7 +151,7 @@ body::before {
   position: relative;
   overflow: hidden;
   transition: all 0.3s ease;
-  max-height: 65vh;
+  /* max-height: 65vh; */
 }
 
 .card::before {
