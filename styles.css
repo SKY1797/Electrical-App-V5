@@ -408,7 +408,7 @@ body::before {
   background: var(--primary);
   color: var(--primary-foreground);
   border: none;
-  padding: 1rem 1.5rem;
+  padding: 0.8rem 1.5rem;
   border-radius: var(--radius);
   cursor: pointer;
   font-size: 0.9rem;
@@ -457,7 +457,7 @@ body::before {
 
 .search-icon,
 .loading-icon {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   transition: all 0.3s ease;
 }
 
