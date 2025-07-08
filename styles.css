@@ -60,7 +60,7 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background:
+  /* background:
     radial-gradient(
       circle at 20% 50%,
       rgba(52, 152, 219, 0.05) 0%,
@@ -75,7 +75,7 @@ body::before {
       circle at 40% 80%,
       rgba(149, 165, 166, 0.06) 0%,
       transparent 70%
-    );
+    ); */
   z-index: -1;
 }
 
